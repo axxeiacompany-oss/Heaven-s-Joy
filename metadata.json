@@ -1,0 +1,6 @@
+{
+  "name": "Heaven's Joy — Creperia & Doceria Boutique",
+  "description": "Boutique gastronômica de Crepes Franceses, Suíços e Bubble Waffles artesanais em Ibaiti - PR. Peça online para delivery ou retirada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
